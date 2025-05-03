@@ -1,0 +1,13 @@
+.boton{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.izquierda{
+    background-color: black;
+    color: white;
+}
+
+.derecha{
+    background-color: yellow;
+}

@@ -1,0 +1,19 @@
+.impar{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos{
+    color: blue;
+    font-size: 36px;
+}
+
+.grande{
+    font-size: 24px;
+}
+
+#cuatro{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
